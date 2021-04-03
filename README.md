@@ -1,2 +1,10 @@
 # simple-algorithm_and_data_structure
-A simple learning route for Algorithm and Data Structure which in continuous maintaining.
+简洁优质的算法与数据结构学习路线。
+
+## 这篇教程的目的
+1. 让初学者明白自己的算法与数据结构水平、明确学习目标
+2. 提供足够简洁优质的学习路线
+3. 提供相关学习资料的链接（待持续完善）
+
+## 你是什么水平的？
+算法与数据结构，是计算机学习中最基础的“内功”。
