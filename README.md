@@ -1,5 +1,5 @@
-# simple-algorithm_and_data_structure
-简洁优质的算法与数据结构学习路线。
+# simple-algorithm
+简洁优质的算法学习路线。
 
 ## 这篇教程的目的
 1. 让初学者明白自己的算法与数据结构水平、明确学习目标
